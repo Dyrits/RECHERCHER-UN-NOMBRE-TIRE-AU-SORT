@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Trouvez le nombre</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+    <h1>Veuillez saisir un nombre entre 0 et 10, ou plus...</h1>
+    <form method="post" action="CheckNumber/ServletCheckNumber">
+        <label for="number">Nombre: </label>
+        <input type="number" name="number" id="number" value="0" min="0" max="1000" required>
+        <hr>
+        <button type="submit">Soumettre</button>
+    </form>
+</body>
+</html>

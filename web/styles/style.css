@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
+
+body {
+    font-family: 'Original Surfer', cursive;
+    text-align: center;
+}
+
+#success { color: #5cb85c; }
+#fail { color: #d9534f; }
