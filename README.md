@@ -42,7 +42,7 @@ A l'aide des paramètres d'initialisation, permettre à l'administrateur du site
 
 > Plus de détails sont disponibles dans les fichiers au format PDF correspondant à chaque énoncé.
 
-### Technologie principale
+### Technologies principales
 - Java
 - Java EE
 
