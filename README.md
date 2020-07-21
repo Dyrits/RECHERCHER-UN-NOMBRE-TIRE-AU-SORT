@@ -9,7 +9,7 @@ ENI | Le développement Web côté serveur – BackEnd avec Java Enterprise Edit
 ### Énoncés (par l'ENI)
 
 <details markdown="block">
-<summary>Version 1></summary>  
+<summary>Version 1</summary>  
 
 A partir d'un nouveau Dynamic Web Project, créer l'application suivante.
 
@@ -44,6 +44,7 @@ A l'aide des paramètres d'initialisation, permettre à l'administrateur du site
 
 ### Technologie principale
 - Java
+- Java EE
 
 ### Détails | Commentaires
 Ce projet a été construit à partir de zéro en suivant des instructions spécifiques. 
@@ -56,7 +57,7 @@ L'application a été renommée "FindTheNumber".
 </details>  
 
 <details markdown="block">
-<summary>Version 1</summary>  
+<summary>Version 2</summary>  
 
 La version 1 effectuant un contrôle sur la saisie de l'utilisateur au sein du formulaire HTML, la valeur maximale a été étendue à 1000. Cela dit, l'utilisateur ne dispose d'aucun indice pour déterminer l'étendue des possibilités définies en paramètres d'initialisation.
 
@@ -68,4 +69,4 @@ Version 2 - Terminée
 
 #### Dernière mise à jour
 18/07/2020  
-(README | 18/07/2020)
+(README | 21/07/2020)
