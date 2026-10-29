@@ -18,6 +18,10 @@ Version 1 and Version 2: completed ("Terminée"), per the original README.
 
 - Java / Java EE (Servlets)
 
+## Runtime note
+
+The IDE module file `FindTheNumber.iml` references Apache Tomcat 8.5.57 as a provided library. Tomcat 8.5.x reached end of life on 31 March 2024 ([announcement](https://tomcat.apache.org/tomcat-85-eol.html)). The runtime and deployment of this project have not been verified in this review. Before deploying it, use a currently supported, compatible Servlet runtime (see [which version](https://tomcat.apache.org/whichversion.html)).
+
 ## License
 
 No license file is present in this repository.
